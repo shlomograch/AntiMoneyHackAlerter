@@ -1,0 +1,12 @@
+C:\Users\Shlome\Desktop\test\bin\Debug\AntiMoneyHackEmailer.exe.config
+C:\Users\Shlome\Desktop\test\bin\Debug\AntiMoneyHackEmailer.exe
+C:\Users\Shlome\Desktop\test\bin\Debug\AntiMoneyHackEmailer.pdb
+C:\Users\Shlome\Desktop\test\obj\Debug\AntiMoneyEmailer.csprojResolveAssemblyReference.cache
+C:\Users\Shlome\Desktop\test\obj\Debug\AntiMoneyHackEmailer.exe
+C:\Users\Shlome\Desktop\test\obj\Debug\AntiMoneyHackEmailer.pdb
+C:\Users\Shlome\Desktop\test2\bin\Debug\AntiMoneyHackEmailer.exe.config
+C:\Users\Shlome\Desktop\test2\obj\Debug\AntiMoneyHackEmailer.exe
+C:\Users\Shlome\Desktop\test2\obj\Debug\AntiMoneyHackEmailer.pdb
+C:\Users\Shlome\Desktop\test2\bin\Debug\AntiMoneyHackEmailer.exe
+C:\Users\Shlome\Desktop\test2\bin\Debug\AntiMoneyHackEmailer.pdb
+C:\Users\Shlome\Desktop\test2\obj\Debug\AntiMoneyEmailer.csprojResolveAssemblyReference.cache
